@@ -16,8 +16,13 @@
         "node-red-contrib-scx-ibmiotapp":"0.x",
         "node-red-contrib-ibmpush":"0.x",
         "node-red-contrib-bluemix-hdfs":"0.x",
-        "node-red-nodes-cf-sqldb-dashdb":"0.x"
-    },
+        "node-red-nodes-cf-sqldb-dashdb":"0.x",
+        "node-red-dashboard": "node-red/node-red-dashboard",
+        "node-red-contrib-web-worldmap": "^1.0.13",
+        "node-red-node-geofence": "^0.0.14",
+        "node-red-node-random": "*",
+        "node-red-node-smooth": "*"
+	},
     "engines": {
         "node": "0.12.x"
     }
